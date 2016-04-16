@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="message">Pesan</string>
+    <string name="name">Nama</string>
+    <string name="select_photo">Pilih Foto</string>
+    <string name="selected">Sudah dipilih</string>
+    <string name="not_yet_selected">Belum dipilih</string>
+    <string name="hi">Hai, nama saya adalah</string>
+</resources>
